@@ -4,6 +4,8 @@ Modern Full Stack ECommerce Application with Stripe & Sanity
 
 ![Screenshot 2023-03-30 at 15 12 46](https://user-images.githubusercontent.com/77645494/228847405-686d2745-ae9b-4e02-b52a-8035bacc2e3a.png)
 
+## Click here: https://smartfarben-ecommerce-nextjs-sanity-imqa.vercel.app/
+
 
 First, run the development server:
 
