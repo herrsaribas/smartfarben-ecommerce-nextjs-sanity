@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Modern Full Stack ECommerce Application with Stripe & Sanity
 
-## Getting Started
+## Ecommerce, Next.js Sanity App
+
+![Screenshot 2023-03-30 at 15 12 46](https://user-images.githubusercontent.com/77645494/228847405-686d2745-ae9b-4e02-b52a-8035bacc2e3a.png)
+
 
 First, run the development server:
 
