@@ -23,3 +23,19 @@ And most importantly how to manage the entire content of your app using Sanity. 
 Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
 
 Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
+
+![Screenshot 2023-03-30 at 15 20 05](https://user-images.githubusercontent.com/77645494/228849019-682a987b-7dac-4e20-8897-3b8c5158cc4b.png)
+
+![Screenshot 2023-03-30 at 15 20 34](https://user-images.githubusercontent.com/77645494/228849153-659cf329-cbbe-4163-963a-4d33f9efa164.png)
+
+![Screenshot 2023-03-30 at 15 21 04](https://user-images.githubusercontent.com/77645494/228849269-a33d0940-1357-4da9-8539-ba37e4069d1c.png)
+
+![Screenshot 2023-03-30 at 15 21 30](https://user-images.githubusercontent.com/77645494/228849474-57404d47-c7b2-4373-9471-24974132bf95.png)
+
+![Screenshot 2023-03-30 at 15 22 33](https://user-images.githubusercontent.com/77645494/228850055-e1cab96a-2781-46a3-9655-108080162a28.png)
+
+
+
+
+
+
